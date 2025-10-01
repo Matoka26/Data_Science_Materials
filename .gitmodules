@@ -1,3 +1,6 @@
 [submodule "Year 1/Semester 1"]
     path = Year 1/Semester 1
     url = https://github.com/Matoka26/Exploratory-Data-Analysis
+[submodule "Year 1/Semester 1/Exploratoy Data Analysis"]
+	path = Year 1/Semester 1/Exploratoy Data Analysis
+	url = https://github.com/Matoka26/Exploratory-Data-Analysis
